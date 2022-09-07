@@ -1,0 +1,20 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digikraftagency/website.git"
+  },
+  "author": "Simon Perols <simon@perols.dev> (https://simon.perols.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digikraftagency/website/issues"
+  },
+  "homepage": "https://github.com/digikraftagency/website#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
