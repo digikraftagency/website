@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "build": "rm -rf dist && parcel build src/index.html",
-    "test": "rm -rf dist && bin/bats --tap test"
+    "test": "rm -rf dist && bats --tap test"
   },
   "repository": {
     "type": "git",
